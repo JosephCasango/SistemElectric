@@ -1373,7 +1373,7 @@ Antiguamente, muchos aeroplanos no contaban con un sistema eléctrico sino que t
 
   <div class="column">
     <div class="content">
-    <img src="https://i.pinimg.com/736x/7a/41/6e/7a416eac9e07232e8a0f8c2d35951cf5.jpg" alt="Lights" style="width:100%">
+    <img src="https://i.pinimg.com/736x/8b/a2/d8/8ba2d84b728b4cd6e4e02460fbe1072d.jpg" alt="Lights" style="width:100%">
 
 
   <table>
@@ -1414,7 +1414,7 @@ La batería o acumulador, como su propio nombre indica, transforma y almacena la
   </div>
   <div class="column">
     <div class="content">
-    <img src="https://i.pinimg.com/736x/4f/05/62/4f0562f6e354c0c39954e1230a3b295c.jpg" alt="Nature" style="width:100%">
+    <img src="https://i.pinimg.com/736x/89/e7/a7/89e7a77e84834f019ddd7534d918bfef.jpg" alt="Nature" style="width:100%">
           
 
  <table>
@@ -1462,7 +1462,7 @@ La batería o acumulador, como su propio nombre indica, transforma y almacena la
   </div>
   <div class="column">
     <div class="content">
-    <img src="https://i.pinimg.com/736x/f1/37/dc/f137dc8205201778b2a7f6d1aa903eac.jpg" alt="Mountains" style="width:100%">
+    <img src="https://i.pinimg.com/736x/ba/57/f2/ba57f25cb7a38530be15312e200c05fd.jpg" alt="Mountains" style="width:100%">
           
  <table>
   <tr>
@@ -1508,7 +1508,7 @@ La batería o acumulador, como su propio nombre indica, transforma y almacena la
 </div>
 
 <div class="content">
-  <img src="https://i.pinimg.com/736x/38/4e/ec/384eec32b988ed5157cbba2a318801df.jpg" alt="Bear" style="width:100%">
+  <img src="https://i.pinimg.com/736x/36/99/07/369907c4d72005c32258d48b6a2aa6cd.jpg" alt="Bear" style="width:100%">
       
  <table>
   <tr>
