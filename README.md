@@ -1375,8 +1375,6 @@ Antiguamente, muchos aeroplanos no contaban con un sistema eléctrico sino que t
     </td>
 
   <td>
-     </td>
-     <td>
 <label class="ui-bookmark">
     <input type="checkbox">
     <div class="bookmark">
@@ -1572,10 +1570,13 @@ Para generar electricidad las magnetos deben girar, así que para poner en march
 <br>
 <button class="Trans2" onclick="openPage('Fotos', this,)">Siguiente</button>
 
+<br>
+<br>
+<br>
 
 
-
-
+</div>
+</div>
 
 
 
