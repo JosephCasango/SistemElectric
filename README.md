@@ -1582,6 +1582,7 @@ Para generar electricidad las magnetos deben girar, así que para poner en march
 
 </div>
 </div>
+</div>
 
 
 
