@@ -1246,7 +1246,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <div id="Home" class="tabcontent">
 
-
+<img src="https://i.pinimg.com/736x/8e/64/7b/8e647bc8ae219eb6e325595c9c665fa1.jpg" style="width:100%">
 <div class="bg-image img1"><img src="https://i.pinimg.com/736x/b2/b7/1a/b2b71a9a51ca1852a41df51a7f658c12.jpg" style="width:100%"></div>
 <div class="bg-image img2"><img src="https://i.pinimg.com/736x/9c/dc/ed/9cdced121b96194c6e52006ae6313b68.jpg" style="width:100%"></div>
 <div class="bg-image img3"><img src="https://i.pinimg.com/736x/8b/a3/8e/8ba38e12ca47ceb1f1c269a8614f3947.jpg" style="width:100%"></div>
@@ -1568,8 +1568,7 @@ Para generar electricidad las magnetos deben girar, así que para poner en march
 <button class="Trans" onclick="openPage('Home', this,)" id="defaultOpen">Regresar</button>
 <br>
 <br>
-<button class="Trans2" onclick="openPage('Fotos', this,)">Siguiente</button>
-
+<button class="Trans3" onclick="openPage('Creditos', this,)" id="defaultOpen">Siguiente</button>
 <br>
 <br>
 <br>
