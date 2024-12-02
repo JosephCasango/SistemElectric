@@ -1246,13 +1246,22 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <div id="Home" class="tabcontent">
 
-<img src="https://i.pinimg.com/736x/8e/64/7b/8e647bc8ae219eb6e325595c9c665fa1.jpg" style="width:100%">
+
 <div class="bg-image img1"><img src="https://i.pinimg.com/736x/b2/b7/1a/b2b71a9a51ca1852a41df51a7f658c12.jpg" style="width:100%"></div>
 <div class="bg-image img2"><img src="https://i.pinimg.com/736x/9c/dc/ed/9cdced121b96194c6e52006ae6313b68.jpg" style="width:100%"></div>
 <div class="bg-image img3"><img src="https://i.pinimg.com/736x/8b/a3/8e/8ba38e12ca47ceb1f1c269a8614f3947.jpg" style="width:100%"></div>
 <div class="bg-image img4"><img src="https://i.pinimg.com/736x/29/c0/c4/29c0c41d913145f8a3d84c103127d123.jpg" style="width:100%"></div>
 <div class="bg-image img5"><img src="https://i.pinimg.com/736x/8c/c4/b1/8cc4b1d0620b72b65b465f288db558e0.jpg" style="width:100%"></div>
 <div class="bg-image img6"><img src="https://i.pinimg.com/736x/8e/64/7b/8e647bc8ae219eb6e325595c9c665fa1.jpg" style="width:100%"></div>
+
+
+<div class="bg-image img6"><img src="https://i.pinimg.com/736x/2d/c9/94/2dc994dec24b21ad8333966c0663d464.jpg" style="width:100%"></div>
+<div class="bg-image img6"><img src="https://i.pinimg.com/736x/fb/31/0a/fb310a8c05271eb04e4bc4d885ed9667.jpg" style="width:100%"></div>
+<div class="bg-image img6"><img src="https://i.pinimg.com/736x/2b/52/b5/2b52b5a84e015aa85d63e8963f21790b.jpg" style="width:100%"></div>
+
+<div class="bg-image img6"><img src="https://i.pinimg.com/736x/b2/3b/db/b23bdb5e8ef48d9e9beff180456aadb6.jpg" style="width:100%"></div>
+<div class="bg-image img6"><img src="https://i.pinimg.com/736x/a8/2d/ef/a82def64a05e1716f2cbac9abf2703cc.jpg" style="width:100%"></div>
+<div class="bg-image img6"><img src="https://i.pinimg.com/736x/93/f3/e6/93f3e6a5126a589b7d5bfb950277efd0.jpg" style="width:100%"></div>
 
 <div class="bg-text">Sistemas Electricos De Las Aeronaves
 
