@@ -183,8 +183,7 @@ body, html {
 }
 
 #Home {background-color: ;}
-#Info {background-color: black;
-}
+#Info {background-color: black;}
 #Fotos {background-color: white;}
 #Creditos {background-color: black;}
 
@@ -1577,7 +1576,7 @@ Para generar electricidad las magnetos deben girar, así que para poner en march
 <button class="Trans" onclick="openPage('Home', this,)" id="defaultOpen">Regresar</button>
 <br>
 <br>
-<button class="Trans3" onclick="openPage('Creditos', this,)" id="defaultOpen">Siguiente</button>
+<button class="Trans3" onclick="openPage('Creditos', this,)">Siguiente</button>
 <br>
 <br>
 <br>
@@ -1621,7 +1620,7 @@ Para generar electricidad las magnetos deben girar, así que para poner en march
   <br>
 
 
-<button class="Trans3" onclick="openPage('Creditos', this,)" id="defaultOpen">Siguiente</button>
+<button class="Trans3" onclick="openPage('Creditos', this,)">Siguiente</button>
   <br>
   <br>
 
