@@ -1566,32 +1566,12 @@ Para generar electricidad las magnetos deben girar, así que para poner en march
 
 
 <center>
-  <table>
-    <tr>
-      <td>
-<button class="Trans" onclick="openPage('Home', this,)" id="defaultOpen">Regresar</button>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-<button class="Trans2" onclick="openPage('Fotos', this,)">Siguiente</button>
-</td>
-</tr>
-</table>
-</center>
 
+<button class="Trans" onclick="openPage('Home', this,)" id="defaultOpen">Regresar</button>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<button class="Trans2" onclick="openPage('Fotos', this,)">Siguiente</button>
+
 </div>
 </div>
 
