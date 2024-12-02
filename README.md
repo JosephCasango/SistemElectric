@@ -1572,8 +1572,6 @@ Para generar electricidad las magnetos deben girar, así que para poner en march
 <br>
 <button class="Trans2" onclick="openPage('Fotos', this,)">Siguiente</button>
 
-</div>
-</div>
 
 
 
