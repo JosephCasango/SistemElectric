@@ -1254,8 +1254,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <div class="bg-image img6"><img src="https://i.pinimg.com/736x/8e/64/7b/8e647bc8ae219eb6e325595c9c665fa1.jpg" style="width:100%"></div>
 
 
-<div class="bg-image img6"><img src="https://i.pinimg.com/736x/2d/c9/94/2dc994dec24b21ad8333966c0663d464.jpg" style="width:100%"></div>
-<div class="bg-image img6"><img src="https://i.pinimg.com/736x/fb/31/0a/fb310a8c05271eb04e4bc4d885ed9667.jpg" style="width:100%"></div>
+<div class="bg-image img6"><img src="https://i.pinimg.com/736x/0b/ba/38/0bba3886cc33462a93ecbbbefa52d355.jpg" style="width:100%"></div>
+<div class="bg-image img6"><img src="https://i.pinimg.com/736x/30/c3/54/30c354e892121a1089c841392565f8c2.jpg" style="width:100%"></div>
 <div class="bg-image img6"><img src="https://i.pinimg.com/736x/2b/52/b5/2b52b5a84e015aa85d63e8963f21790b.jpg" style="width:100%"></div>
 
 <div class="bg-image img6"><img src="https://i.pinimg.com/736x/b2/3b/db/b23bdb5e8ef48d9e9beff180456aadb6.jpg" style="width:100%"></div>
